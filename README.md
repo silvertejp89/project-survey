@@ -1,6 +1,6 @@
 # Survey form with React
 
-This assignment was to practice Rect state and controlled forms by creating a survey. 
+This assignment was to practice React state and controlled forms by creating a survey. 
 
 ## The problem
 I´m really happy about this little project beacuse I planned it well and didn´t add a lot of extra features. I had very little time to work on it, but I were effective during the time I had. 
